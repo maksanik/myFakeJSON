@@ -1,0 +1,16 @@
+{
+    "inCart": [
+        { "key": "1", "price": 120, "quantity": 1, "text": "Товар 1" },
+        { "key": "2", "price": 220, "quantity": 1, "text": "Оченьдлинноеназваниедлинноеназваниедлинноеназваниедлинноеназваниедлинноеназваниедлинноеназваниедлинноеназвание" },
+        { "key": "3", "price": 320, "quantity": 1, "text": "Товар 3" },
+        { "key": "4", "price": 420, "quantity": 1, "text": "Товар 4" },
+        { "key": "5", "price": 100, "quantity": 1, "text": "Товар 5" },
+        { "key": "6", "price": 100, "quantity": 1, "text": "Товар 6" },
+        { "key": "7", "price": 100, "quantity": 1, "text": "Товар 7" },
+        { "key": "8", "price": 100, "quantity": 1, "text": "Товар 8" }
+    ],
+    "deffered": [
+        { "key": "9", "price": 101, "quantity": 1, "text": "Товар A" },
+        { "key": "10", "price": 102, "quantity": 1, "text": "Товар B" }
+    ]
+}
